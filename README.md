@@ -16,19 +16,18 @@ I had an issue with the Pivot chart wherein the Goal was not sorted. I right cli
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-
- •	The most successful campaigns were in the month of May.
- •	The least successful campaign was in the month of December and could be due to the holiday season.
- •	There were no canceled campaigns in the month of October.
+     	The most successful campaigns were in the month of May.
+      The least successful campaign was in the month of December and could be due to the holiday season.
+ 	    There were no canceled campaigns in the month of October.
 
 - What can you conclude about the Outcomes based on Goals?
- •	The percentage of successful plays was in the range of around 1000$ and less than 5000$
- •	The failed campaign for plays was around 45000$ to 49000$.
+ 	    The percentage of successful plays was in the range of around 1000$ and less than 5000$.
+ 	    The failed campaign for plays was around 45000$ to 49000$.
 
 - What are some limitations of this dataset?
-The limitation is that the dataset is small and so can’t make concrete decisions based on it. 
+      The limitation is that the dataset is small and so can’t make concrete decisions based on it. 
 - What are some other possible tables and/or graphs that we could create?
- Another table that can be created is Outcomes vs Country .I used a Stacked column start for this analysis.Below is the table and the chart
+      Another table that can be created is Outcomes vs Country .I used a Stacked column start for this analysis.Below is the table and the chart
  ![image_name](C:\Users\gksus\Homework\Week 2 Kickstarter Challenge\Kickstarter-analysis\Outcome_vs_Country)
 
 
